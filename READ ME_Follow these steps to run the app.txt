@@ -1,4 +1,4 @@
-Steps to run the app:
+Steps to run the app: -- This is for the downloading the file through my gdrive
 1. Download and install the nodejs
 2. Open any code editor like vscode / etc.
 3. Select the app/folder of the app that you need to run.
@@ -7,3 +7,11 @@ Steps to run the app:
  - then run this command: npx json-server --watch src/data/items.json
 
 5. Run the Application: npm run dev
+
+
+Steps to run the app: For cloning the repository:
+1. Once you clone the repository, and if you didn't see any node_modules file, make sure to install it first before running the app
+2. Open your CLI/Terminal and type this command: npm install - it will install the node_modules for the app.
+3. Make sure to also installthe json-server: npm install json-server
+   - Then run this command: npx json-server --watch src/data/items.json
+4. After that try to run the app by using the command: npm run dev
