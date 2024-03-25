@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "prodName": "Phone",
+      "price": "654",
+      "imgUrl": "/imgs/phone.jpg",
+      "shortDesc": "This is a short Descs",
+      "longDesc": "This is a long Descriptions"
+    },
+    {
+      "id": "2",
+      "prodName": "Monitor",
+      "price": 50000,
+      "shortDesc": "This is a short Desc",
+      "longDesc": "This is a long Description Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione tenetur laborum, architecto quibusdam, nostrum doloremque quae tempora maiores quos alias natus delectus consectetur incidunt. Dignissimos maiores illo totam quidem aut!",
+      "imgUrl": "/imgs/monitor.jpg"
+    },
+    {
+      "id": "3",
+      "prodName": "Mouse",
+      "price": 10.99,
+      "shortDesc": "This is a short Desc",
+      "longDesc": "This is a long Description",
+      "imgUrl": "/imgs/mouse.jpg"
+    },
+    {
+      "id": "4",
+      "prodName": "Keyboard",
+      "price": 800000,
+      "shortDesc": "This is a short Desc",
+      "longDesc": "This is a long Description",
+      "imgUrl": "/imgs/keyboard.jpg"
+    }
+  ]
+}

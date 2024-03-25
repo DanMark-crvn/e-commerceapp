@@ -1,0 +1,9 @@
+Steps to run the app:
+1. Download and install the nodejs
+2. Open any code editor like vscode / etc.
+3. Select the app/folder of the app that you need to run.
+4. Once you already open, Open the CLI/Terminal and install this:
+ - npm install json-server
+ - then run this command: npx json-server --watch src/data/items.json
+
+5. Run the Application: npm run dev
